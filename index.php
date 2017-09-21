@@ -12,9 +12,9 @@
     <link href="signin.css" rel="stylesheet">
     <link href="style1.css" rel="stylesheet">
   </head>
-  <body style="background: url(./images/img1.jpg) ; width:100% ; height: 100%; background-size: 100%;">
+  <body style="background: url(./img1.jpg) ; width:100% ; height: 100%; background-size: 100%;">
 
-    <div class="container-fluid headercont" style="background:  url(./images/ao.gif) repeat">
+    <div class="container-fluid headercont" style="background:  url(./ao.gif) repeat">
     <div class='row'>
     <div class='col-lg-3' style="max-height: 150px;">
       <img src="images/bhu_1.png" class=" img-responsive" style="margin: 5px;"  />
